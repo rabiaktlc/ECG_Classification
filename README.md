@@ -21,14 +21,12 @@ This project aims to classify **ECG (Electrocardiogram) signals** into five dist
 ## **📊 Dataset**  
 The dataset used in this study is:  
 - **MIT-BIH Arrhythmia Dataset**  
-- **PTB Diagnostic ECG Database**  
 
 ✅ It consists of **preprocessed and segmented heartbeat signals**, labeled according to different heartbeat types.  
 
 📌 Below is an example of the class distribution in the dataset:  
 
 ![Class Distribution](https://upload.wikimedia.org/wikipedia/commons/3/3d/Confusion_matrix.png)  
-*Example Confusion Matrix (Illustrative Image)*  
 
 ---
 
