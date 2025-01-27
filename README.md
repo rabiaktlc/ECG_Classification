@@ -100,11 +100,5 @@ Overall Acc.     0.96
 
 ---
 
-## **👥 Contributors**  
-- **Rabia Kutluca** – rabiakutluca@ogr.eskisehir.edu.tr  
-- **Melek Gül Kaya** – melekgulkaya@ogr.eskisehir.edu.tr  
-
----
-
 ## **📜 License**  
 This project is licensed under the **MIT License**. See the `LICENSE` file for more details.  
