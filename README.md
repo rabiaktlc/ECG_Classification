@@ -1,8 +1,5 @@
 # **Heart Rhythm Analysis and Anomaly Detection from ECG Signals**  
 
-![ECG Signal](https://upload.wikimedia.org/wikipedia/commons/e/e7/ECG_Principle_fast.gif)  
-*Source: Wikipedia*  
-
 ---
 
 ## **📖 Project Overview**  
