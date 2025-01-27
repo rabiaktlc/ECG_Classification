@@ -69,7 +69,7 @@ pip install -r requirements.txt
 ```
 3️⃣ **Run the main script**  
 ```bash
-python main.py
+jupyter notebook ecg_signals_classification.ipynb
 ```
 
 ---
@@ -77,7 +77,7 @@ python main.py
 ## **📊 Results & Performance**  
 The **Random Forest model** performed the best in classifying ECG signals. Below is a summary of precision, recall, and F1-score for each class:  
 
-📌 **Classification Report Example:**  
+📌 **Classification Report Example of Random Forest:**  
 ```
               Precision    Recall   F1-Score
 Normal (N)       0.97       1.00       0.98
