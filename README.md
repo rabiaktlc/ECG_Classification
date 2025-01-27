@@ -23,7 +23,7 @@ The dataset used in this study is:
 
 📌 Below is an example of the class distribution in the dataset:  
 
-![Class Distribution](https://upload.wikimedia.org/wikipedia/commons/3/3d/Confusion_matrix.png)  
+![Class Distribution](Images/sınıfların_dağılımı.png)  
 
 ---
 
